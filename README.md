@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://bothive.cloud/bothive-ai-logo.svg" alt="Bothive" width="72" />
+  <img src="https://bothive.cloud/bothive-logo.svg" alt="Bothive" width="72" />
 </p>
 
 <h1 align="center">Bothive</h1>
